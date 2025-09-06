@@ -21,7 +21,7 @@ From SAE evolutions, we identify trajectories of new features (newcomers) and cr
 
 ### Models and Features
 - **Model**: Gemma-2b with resid_post features (resid_mid features were not available)
-- **SAE Integration**: Uses SAE-Lens library for sparse autoencoder analysis and Neuronpedia API.
+- **SAE Integration**: Uses SAE-Lens library for sparse autoencoder analysis and Neuronpedia API for feature explanations.
 
 ### Core Pipeline
 
@@ -62,8 +62,6 @@ python sae9.py
 # Create trajectory graphs
 python graph_generator.py
 
-# Analyze and visualize
-python graphs1.py
 ```
 
 ## Requirements
