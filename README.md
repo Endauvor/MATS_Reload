@@ -14,7 +14,7 @@ We have developed a technique for **SAE Flow detection through Attention Layer**
 
 From SAE evolutions, we identify trajectories of new features (newcomers) and create a graph structure. The resulting graph depends on the number of top-k features considered during analysis.
 
-![Trajectory Graph](trajectory_graph.png)
+![Trajectory Graph](trajectory_graph.13.png)
 *Trajectory graph showing feature flow patterns*
 
 ## Implementation Details
