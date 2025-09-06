@@ -1,4 +1,4 @@
-# MATS SAE Trajectory Analysis
+# MATS SAE Attention Layers Flow
 
 This repository contains research code for analyzing Sparse Autoencoder (SAE) feature flow in transformer language models for Attention Layers. The project is divided into two main parts:
 
