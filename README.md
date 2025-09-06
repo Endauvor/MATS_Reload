@@ -1,9 +1,9 @@
 # MATS SAE Trajectory Analysis
 
-This repository contains research code for analyzing Sparse Autoencoder (SAE) feature trajectories in transformer language models. The project is divided into two main parts:
+This repository contains research code for analyzing Sparse Autoencoder (SAE) feature flow in transformer language models for Attention Layers. The project is divided into two main parts:
 
 1. **Experimental code** - Located in `sae_experiments/` directory with various analysis scripts and experiments
-2. **Main pipeline** - Core trajectory analysis and graph generation tools
+2. **Main pipeline** - Core trajectory analysis and graph generation
 
 ## Methodology: SAE Flow Detection through Attention Layers
 
